@@ -4,6 +4,7 @@ Click en download para ver el archivo
 #### ------
 Input : Monto , Tasa de interes , tiempo </br>
 Output : Cronograma de amortizacion de pagos 
+#### ------
 
 ### Explicación
 https://www.youtube.com/watch?v=uD7x7z2zdns&t=111s&ab_channel=StefanoZevallosReyes
