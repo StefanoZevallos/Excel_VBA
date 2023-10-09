@@ -2,8 +2,11 @@
 # -Excelprograming-Cronogramadedeuda
 Click en download para ver el archivo
 
-Input : Monto , Tasa de interes , tiempo 
+Input : Monto , Tasa de interes , tiempo </br>
 Outpu : Cronograma de amortizacion de pagos 
+
+## Explicación
+https://www.youtube.com/watch?v=uD7x7z2zdns&t=111s&ab_channel=StefanoZevallosReyes
 # Código 
 ![Captura desde 2023-10-09 17-07-25](https://github.com/StefanoZevallos/Excel_VBA/assets/107054283/b70f023f-5a47-48a7-ae3b-adc7bba5fdf1)
 # Input y Output 1
