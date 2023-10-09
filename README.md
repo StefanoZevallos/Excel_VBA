@@ -2,7 +2,7 @@
 # -Excelprograming-Cronogramadedeuda
 Click en download para ver el archivo
 #### ------
-Input : Monto , Tasa de interes , tiempo </br>
+Input : Monto , Tasa de interes , tiempo , fecha de solicitud </br>
 Output : Cronograma de amortizacion de pagos 
 #### ------
 
